@@ -1,0 +1,8 @@
+V:\Downloads\WinXP2\bin\Debug\WinXP2.exe
+V:\Downloads\WinXP2\bin\Debug\WinXP2.pdb
+V:\Downloads\WinXP2\obj\Debug\WinXP2.csprojAssemblyReference.cache
+V:\Downloads\WinXP2\obj\Debug\WinXP2.Properties.Resources.resources
+V:\Downloads\WinXP2\obj\Debug\WinXP2.csproj.GenerateResource.cache
+V:\Downloads\WinXP2\obj\Debug\WinXP2.csproj.CoreCompileInputs.cache
+V:\Downloads\WinXP2\obj\Debug\WinXP2.exe
+V:\Downloads\WinXP2\obj\Debug\WinXP2.pdb
